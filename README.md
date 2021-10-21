@@ -4,7 +4,7 @@ CCC Senior solutions written in C++.
 ## Problems Solved:
 
 #### 2000: S1, S2, S3, S4, S5
-#### 2001: 
+#### 2001: S2, S3
 #### 2002: 
 #### 2003:  
 #### 2004: 
