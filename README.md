@@ -31,7 +31,6 @@ CCC Senior solutions written in C++.
 2001: 
 
 2002: 
-
 2003:  
 
 2004: 
