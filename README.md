@@ -2,12 +2,12 @@
 CCC Senior solutions written in C++. 
 
 ## Problems Solved:
+:
 
 
-
-| Function | MySQL / MariaDB    | PostgreSQL         | SQLite             |
-| :------- | :----------------- | :----------------- | :----------------- |
-| substr   | :heavy_check_mark: | :white_check_mark: | :heavy_check_mark: |
+| Year | S1                 | S2                 | S3                 | S4  | S5  |
+| ---- | ------------------ | ------------------ | ------------------ | --- | --- |
+| 1996 | :heavy_check_mark: | :white_check_mark: | :heavy_check_mark: | 
 
 
 #### 1996: 
