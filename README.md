@@ -3,6 +3,10 @@ CCC Senior solutions written in C++.
 
 ## Problems Solved:
 
+#### 1996: 
+#### 1997: 
+#### 1998: 
+#### 1999: 
 #### 2000: S1, S2, S3, S4, S5
 #### 2001: S1, S2, S3
 #### 2002: S1, S2
