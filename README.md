@@ -5,10 +5,10 @@ CCC Senior solutions written in C++.
 
 | Year | S1                 | S2                 | S3                 | S4                 | S5                 |
 | ---- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |
-| 1996 |
-| 1997 |
-| 1998 |
-| 1999 |
+| 1996 | :white_check_mark: |
+| 1997 | :white_check_mark: |
+| 1998 | :white_check_mark: |
+| 1999 | :white_check_mark: |
 | 2000 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 2001 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 2002 | :white_check_mark: | :white_check_mark: |
@@ -22,13 +22,13 @@ CCC Senior solutions written in C++.
 | 2010 | :white_check_mark: | :white_check_mark: |
 | 2011 | :white_check_mark: | :white_check_mark: |
 | 2012 | :white_check_mark: | :white_check_mark: |
-| 2013 | :white_check_mark: |
-| 2014 | :white_check_mark: |
-| 2015 | :white_check_mark: |
-| 2016 | :white_check_mark: |
+| 2013 | :white_check_mark: | :white_check_mark: |
+| 2014 | :white_check_mark: | :white_check_mark: |
+| 2015 | :white_check_mark: | :white_check_mark: |
+| 2016 | :white_check_mark: | :white_check_mark: |
 | 2017 | :white_check_mark: |
 | 2018 | :white_check_mark: |
 | 2019 | :white_check_mark: |
 | 2020 | :white_check_mark: |
-| 2021 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| 2021 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 
