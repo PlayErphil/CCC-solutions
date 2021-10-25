@@ -8,36 +8,22 @@ int32_t main() {
 	
 	int m, n, k;
 	cin >> m >> n >> k;
-	vector<bool> isRowBlack(m, true);
-	vector<bool> isColBlack(n, true);
+	vector<int> rows(m + 1, 0);
+	vector<int> cols(n + 1, 0);
 	for (int i = 0; i < k; ++i) {
-		char entry;
-		int number;
-		cin >> entry >> number;
-		number--;
-		if (entry == 'R') {
-			if (isRowBlack[number]) {
-				isRowBlack[number] = false;
-			} else {
-				isRowBlack[number] = true;
-			}
-		} else {
-			if (isColBlack[number]) {
-				isColBlack[number] = false;
-			} else {
-				isColBlack[number] = true;
-			}
+		char c;
+		int x;
+		cin >> c >> x;
+		if (c == 'R') rows[x]++;
+		else cols[x]++;
+	}
+	int cnt = 0;
+	for (int i = 1; i <= m; ++i) {
+		for (int j = 1; j <= n; ++j) {
+			if ((rows[i] + cols[j]) % 2 != 0) cnt++;
 		}
 	}
-	int goldR = 0;
-	int goldC = 0;
-	for (int i = 0; i < m; ++i) {
-		if (!isRowBlack[i]) goldR++;
-	}
-	for (int i = 0; i < n; ++i) {
-		if (!isColBlack[i]) goldC++;
-	}
-	cout << goldR * n + goldC * m - 2 * goldC * goldR << endl;
+	cout << cnt << endl;
 	
 	return 0;
 }
