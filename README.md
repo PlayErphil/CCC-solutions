@@ -5,9 +5,9 @@ CCC Senior solutions written in C++.
 
 | Year | S1                 | S2                 | S3                 | S4                 | S5                 |
 | ---- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------ |
-| 1996 | :white_check_mark: |:white_check_mark: |
-| 1997 | :white_check_mark: |:white_check_mark: |
-| 1998 | :white_check_mark: |:white_check_mark: |
+| 1996 | :white_check_mark: | :white_check_mark: |
+| 1997 | :white_check_mark: | :white_check_mark: |
+| 1998 | :white_check_mark: | :white_check_mark: |
 | 1999 | :white_check_mark: |
 | 2000 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 2001 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
