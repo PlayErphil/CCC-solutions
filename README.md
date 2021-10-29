@@ -12,7 +12,7 @@ CCC Senior solutions written in C++.
 | 2000 | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 2001 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 2002 | :white_check_mark: | :white_check_mark: |
-| 2003 | :white_check_mark: | :white_check_mark: |
+| 2003 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 2004 | :white_check_mark: | :white_check_mark: |
 | 2005 | :white_check_mark: | :white_check_mark: |
 | 2006 | :white_check_mark: | :white_check_mark: |
