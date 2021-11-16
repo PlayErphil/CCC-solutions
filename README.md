@@ -23,7 +23,7 @@ CCC Senior solutions written in C++.
 | 2011 | :white_check_mark: | :white_check_mark: |
 | 2012 | :white_check_mark: | :white_check_mark: |
 | 2013 | :white_check_mark: | :white_check_mark: |
-| 2014 | :white_check_mark: | :white_check_mark: |
+| 2014 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | 2015 | :white_check_mark: | :white_check_mark: |
 | 2016 | :white_check_mark: | :white_check_mark: |
 | 2017 | :white_check_mark: | :white_check_mark: |
