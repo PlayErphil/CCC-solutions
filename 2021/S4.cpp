@@ -17,7 +17,7 @@ int32_t main() {
         cin >> a >> b;
         adj[b].push_back(a);
     }
-    //bfs min dis from n to all nodes
+    // bfs min dis from n to all nodes
     deque<int> q;
     vector<bool> vis(n + 1, false);
     q.push_back(n);
@@ -54,4 +54,3 @@ int32_t main() {
 
     return 0;
 }
-
