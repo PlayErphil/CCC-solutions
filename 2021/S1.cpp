@@ -10,7 +10,6 @@ int32_t main() {
 
     cout.setf(ios::fixed);
     cout.precision(25);
-
     int n;
     cin >> n;
     double h[n + 1], w[n];
